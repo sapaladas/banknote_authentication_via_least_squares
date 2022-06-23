@@ -183,5 +183,5 @@ alpha = tune_alpha(x_train, y_train, alphas)
 
 - We see that scaling our features resulted in different optimal values for $\alpha$
 - Looking at the test set, we also observe different results regarding the difference between FP and FN
-- Even though after normalization the difference between FP and FN was higher than before, the error rate is smaller
+- Even though after scaling the difference between FP and FN was higher than before, the error rate was smaller
 - Finally, we see that when the model is trained on the scaled features, it yields a higher AUC score
