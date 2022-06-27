@@ -31,7 +31,7 @@
 
 - The data were provided in the context of the course content
 - However, they are also available in the [UCI Machine Learning Repository](https://archive-beta.ics.uci.edu/ml/datasets/banknote+authentication)
-- The data were initially extracted from images that were taken from genuine and forged banknote-like specimens
+- The data were extracted from images that were taken from genuine and forged banknote-like specimens
 - For digitization, an industrial camera usually used for print inspection was used
 - The final images had $400 \times 400$ pixels
 - Wavelet Transform tool were used to extract features from images
