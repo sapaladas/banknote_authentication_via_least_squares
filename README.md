@@ -51,7 +51,7 @@
 
 ### Least squares classifier
 
-```
+``` python
 def least_squares_classifier(x_set, y_set, alpha=0.5):
     
     # function to calculate theta estimates
@@ -90,7 +90,7 @@ y_train = least_squares_classifier(x_train, y_train)
 
 ### Tuning alpha
 
-```
+``` python
 def tune_alpha(x_set, y_set, alphas):
     
     # initialize alpha
